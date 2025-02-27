@@ -1,14 +1,19 @@
 html {
-    height: 100%;
-    width: 100%;
-  }
-  
-h3 {
-  color:green;
+  height: 100%;
+  width: 100%;
 }
 
+h3 {
+  color: green;
+}
+body{
+  background-color: gray;
+}
+h3{
+  color: green;
+}
 .blue{
-  color:blue
+  color: blue;
 }
 
 #red {
